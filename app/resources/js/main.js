@@ -64,3 +64,6 @@ function addItemTodo(text) {
     list.insertBefore(item, list.childNodes[0]);
 
 }
+
+addItemTodo("first task");
+addItemTodo("second task");
