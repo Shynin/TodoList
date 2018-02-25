@@ -69,3 +69,5 @@ addItemTodo("first task");
 addItemTodo("second task");
 addItemTodo("Alex task");
 addItemTodo("Alex done");
+addItemTodo("Max's task");
+
